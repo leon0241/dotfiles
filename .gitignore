@@ -17,6 +17,7 @@
 # Hyprland
 !/hypr/
 !/waybar/
+!/rofi/
 
 # Electrony shit
 !/spicetify/
