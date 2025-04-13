@@ -1,0 +1,20 @@
+[[session]]
+name = "LaTeX Notes"
+path = "~/git/leon-latex-notes"
+startup_command = "nvim"
+
+[[session]]
+name = "LaTeX Hand-ins"
+path = "~/git/leon-latex-handins"
+startup_command = "nvim"
+
+[[session]]
+name = "Honours Project"
+path = "~/git/leon-hons-project"
+startup_command = "nvim"
+
+[[session]]
+name = "nvim config"
+path = "~/.config/nvim"
+startup_command = "nvim"
+

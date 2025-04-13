@@ -1,0 +1,22 @@
+# Ignore everything in repository root
+/*
+
+# Files to not ignore
+!/.gitignore
+
+# TUI
+!/hypr/
+!/tmux/
+!/yazi/
+!/sesh/
+!/glow/
+!/cava/
+
+# nvim is in its own repo, ignore
+
+# Hyprland
+!/hypr/
+!/waybar/
+
+# Electrony shit
+!/spicetify/
